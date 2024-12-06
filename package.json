@@ -2,7 +2,7 @@
   "name": "gitrepoa3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sum.js",
   "scripts": {
     "test": "jest"
   },
